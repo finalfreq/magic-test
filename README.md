@@ -1,8 +1,3 @@
-== Magic Test
-
-This project was for learning how to setup an API using rails and Twillio. The point of the application is to send yourself a text and friends a text using twilio
-
-
 # Magic Text
 
 Magic Text was a part of Rails week 3 at Epicodus. This project was for learning how to setup an API using rails and Twillio. The point of the application is to create a contact list and have the ability to send customer texts from the website using Twilio. 
