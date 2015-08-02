@@ -1,9 +1,0 @@
-== Magic Test
-
-This project was for learning how to setup an API using rails and Twillio. The point of the application is to send yourself a text and friends a text using twilio
-
-* Ruby version
- 2.2
-
-* Configuration
-To run the application make sure to rake db:create, rake db:migrate, and bundle install. 
